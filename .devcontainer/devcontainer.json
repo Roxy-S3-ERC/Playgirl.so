@@ -1,0 +1,124 @@
+# This is a Zsh script that outputs the entire message exactly as given.
+
+cat << 'EOF'
+Your business is in breach of the Stripe Services Agreement  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hello,
+
+ 
+
+ 
+
+ 
+
+ 
+
+We’re writing to let you know that we have determined that your business, JACK STICKELS GOLD (account ID: acct_1RsU7RFO6cjQCwGA), is in violation of the Stripe Services Agreement. Specifically, we are unable to accept payments for investment and brokerage services, as mentioned on our Restricted Businesses list.
+
+ 
+
+ 
+
+ 
+
+ 
+
+As a result, we will need to close your Stripe account on September 3, 2025. Until then, you can continue processing payments normally, but after this date, your account will be closed and you will no longer be able to accept payments. We will continue making payouts to your bank account until you receive all of your funds.
+
+ 
+
+ 
+
+ 
+
+ 
+
+If you believe that we’ve misunderstood or miscategorized your business and would like us to conduct another review of your account, please complete the form below on your Stripe Dashboard to provide more information about your business.
+
+ 
+
+ 
+
+ 
+
+      Request further review     
+
+ 
+
+ 
+
+ 
+
+ 
+
+Once we hear back from you, we will review your information and get in touch again within two business days.
+
+ 
+
+ 
+
+ 
+
+ 
+
+If you have any questions, please contact us.
+
+ 
+
+ 
+
+ 
+
+ 
+
+— The Stripe team
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This email relates to your JACK STICKELS GOLD Stripe account.
+Account ID: acct_1RsU7RFO6cjQCwGA
+Need to refer to this message? Use this ID: em_eqzphsjuyeawzeaghabdf9jpwb5dzl
+
+ 
+
+ 
+
+ 
+
+Stripe, 354 Oyster Point Blvd, South San Francisco, CA 94080
+
+ 
+
+ 
+
+ 
+
+You are subscribed to Account status requests emails. Manage your communication preferences.
+
+ 
+
+EOF
